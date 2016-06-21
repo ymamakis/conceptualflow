@@ -1,0 +1,29 @@
+textarea#document {
+	width: 600px;
+	height: 120px;
+	border: 3px solid #cccccc;
+	padding: 5px;
+	font-family: Tahoma, sans-serif;
+}
+table#results{
+    width: 600px;
+    border: 1px;
+    font-family: Tahoma,sans-serif;
+}
+h2 {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 20pt;
+	color: navy;
+	padding-top: 12px;
+	padding-bottom: 3px;
+}
+h3 {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 15pt;
+	color: black;
+	padding-top: 12px;
+	padding-bottom: 3px;
+}
+body{
+    background-color:#fdffc9;
+}
